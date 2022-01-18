@@ -1,0 +1,41 @@
+# Ford GoBike System Data
+## Dataset
+
+introduction
+This data set includes information about individual rides made in a bike-sharing system .
+If you’re feeling adventurous, try adding in analysis from other cities, following links from https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems
+#notice about Dataset : it has many outliers
+## Questions that we try to answer through our analysis:
+Q1) what is proportion of male and female ?
+Q2) what is proportion of member type ?
+Q3) number of subscirbers and sex ?
+Q4) Distribution of trip duration ?
+Q5) Is there a relationship between driving time and age ?
+Q6) averge duration rate
+Q7) Is there a relationship between riding time and gender?
+Q8) What is the ratio of sex to bike riding time ?
+Q9) Is there a relationship between riding time , age and gender?
+Q10) The top highest days making bike trips
+Q11) what is most important and used stations ?
+12) Summary
+
+
+## Summary of Findings
+
+#the most using bike riding is Male about 74% of all clients
+#about 24 female %
+#customers less tahn 10% of all cilents and subscribers about 90%
+#most subscribers are Male then female
+#all people prefers short trip under one hour
+#all pepole could do short trip but long trip most doing are youth from 20 to 40 years
+#gender and age doesn't have big effect on short trips
+#most busy days is 5,6,7,19,20,21,22,28 in the month
+#stations San Francisco Caltrain Station 2 and Market St at 10th St are Most important station to start or end trip
+#notice about Dataset : it has many outliers
+
+## Key Insights for Presentation
+
+For the presentation, I focus on just the duaration time and gender , I started 
+Note that this dataset will require some data wrangling in order to make it tidy for analysis. 
+
+I focus on gender and member type then stations and most importatn station 
